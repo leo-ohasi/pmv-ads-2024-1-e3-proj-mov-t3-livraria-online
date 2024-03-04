@@ -77,17 +77,34 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|ID    |Descrição do Requisito| Prioridade |
+|------|----------------------|------------|
+|RF-001| O aplicativo deve permitir o cadastro de usuários. |ALTA|
+|RF-002| O aplicativo deve permitir o login de clientes. |ALTA|
+|RF-003| O aplicativo deve apresentar uma lista com os livros. |ALTA|
+|RF-004| O aplicativo deve permitir que o usuário altere os seus dados. |ALTA|
+|RF-005| O aplicativo deve apresentar uma barra de pesquisa. |ALTA|
+|RF-006| O aplicativo deve ter avaliação e comentários. |ALTA|
+|RF-007| O aplicativo deve ter opção de filtro. |MÉDIA|
+|RF-008| Permitir que o usuário cadastre tarefas | ALTA | 
+|RF-009| Emitir um relatório de tarefas no mês   | MÉDIA |
+
+
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
+
+|ID  | Descrição do Requisito  |Prioridade |
+|----|-------------------------|----|
+|RNF-001| A aplicação deve estar disponível 24 horas por dia, todos os dias da semana  | ALTA ||ALTA|
+|RNF-002| A aplicação deve ter bom nível de contraste entre os elementos da tela em conformidade |MÉDIA|
+|RNF-003| O aplicativo deve processar requisições do usuário em no máximo 3s |BAIXA|
+|RNF-004| A aplicação deve ser compatível com um dispositivos móvel.| MÉDIA |
+|RNF-005| A aplicação deve ter uma linguagem simples e de fácil entendimento | ALTA |
+|RNF-006| A aplicação deve ter uma boa navegabilidade e usabilidade, facilitando a experiência do usuário | ALTA |
+|RNF-007| Por se tratar de uma aplicação com abrangência nacional, a mesma deve comportar grandes acessos simultâneos | ALTA |
+
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
