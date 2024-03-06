@@ -23,17 +23,19 @@ Gostaria de uma forma rápida para selecionar seus livros favoritos, e também f
 
 2- Bernardo Silva Prado----Administrador do Sistema BookFlows
 
-Bernardo tem 25 anos, é programador Full-Stack. Trabalha como administrador do sistema do app BookFlows.
+Bernardo tem 35 anos, é programador Full-Stack.  Trabalha a 10 anos como programador de sistemas, com foco em desenvolvimento de software web e mobile e criador do APP.
 
 Motivação:
-Manter-se atualizado em sua área de atuação (gosta muito de ler livros de códigos). Encontrar obras de ficção científica.
-Compartilhar suas próprias resenhas e insights
+Contribuir para o desenvolvimento de ferramentas que auxiliem na pesquisa e análise de informações tecnológicas.
+ Usar sua experiência em tecnologia para ajudar a melhorar a qualidade das resenhas e avaliações de livros, tornando mais fácil para os usuários encontrarem os livros que procuram.
+Bernardo pode compartilhar suas próprias resenhas e insights sobre livros e tecnologia, ajudando outros usuários a tomar decisões de compra mais informadas.
+Desenvolver novas funcionalidades para a plataforma BookFlows, como um sistema que auxilia na pesquisa e análise de informações.
 
 Necessidades:
 
-Acessar resenhas e avaliações de outros profissionais do TI.
-Usar um sistema de busca robusto e filtros específicos para o nicho de programação
-Encontrar livros relevantes de forma rápida e eficiente
+Acessar resenhas e avaliações de outros profissionais de tecnologia.
+Usar um sistema de busca robusto e filtros específicos para o nicho tecnológico.
+Encontrar livros relevantes de forma rápida e eficiente.
 
 3- Gabriela Costa
 
