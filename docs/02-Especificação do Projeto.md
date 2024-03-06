@@ -8,19 +8,45 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+1-Joana Oliveira Dos Santos
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+Joana tem 27 anos, formada em educação física e é dona de sua própria escola de artes marciais. Entusiasmada e positiva, gosta muito de leitura que estimulam sua mente,
+e que ajudem ela aprimorar seus exercícios físicos. 
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+Motivação: 
+Tem muito interesse em usar o APP para pode compartilhar com todos (principalmente seus alunos), 
+resenhas sobre os livros de auto- ajuda, e instruções para melhorar suas técnicas em artes marciais. 
+
+Necessidades:
+Gostaria de uma forma rápida para selecionar seus livros favoritos, e também filtrar com um filtro que funcione bem para filtrar por gênero
+(pois a mesma sempre vai estar procurando livros relacionados à esportes, e auto- ajuda).
+
+2- Bernardo Silva Prado
+
+Bernardo tem 35 anos, formado em direito e localizado em São Paulo. É um cara mais reservado e que se interessa por livros de Direito, filosofia, história e política. 
+
+Motivação:
+Busca livros para se manter atualizado em sua área de atuação, além de obras que façam ele refletir mais sobre a sociedade e o mundo. 
+Encontrar facilmente livros relevantes para sua área de expertise através de um sistema de busca robusto e filtros específicos para o nicho jurídico,
+e também busca compartilhar suas próprias resenhas e insights relevantes.
+
+Necessidades:
+Acessar resenhas e avaliações de outros profissionais do direito para embasar suas decisões de compra, pois sua frase é “um bom advogado precisa estar sempre se atualizando,
+e BookFlows me ajuda a fazer isso de forma rápida e eficiente”.
+
+3- Gabriela Costa
+
+Gabriela costa tem 22 anos, estudante de letras, mora em Ouro Preto, em Minas Gerais. Se interessa muito por literatura brasileira e estrangeira. Foca mais em livros de poesia e teoria literária.
+
+Motivação: 
+Leitora apaixonada, lê diversos gêneros, mas tem um carinho especial por clássicos e livros contemporâneos. Busca livros para aprofundar seus conhecimentos literários, 
+encontrar novas leituras para seus estudos e descobrir autores desconhecidos.
+
+Necessidades: 
+Criar listas de leitura personalizadas por gênero, autor, época ou tema. Acessar informações detalhadas sobre os livros, como resumos, 
+críticas literárias e trechos do texto. Conectar-se com outros estudantes de Letras para trocar ideias e discutir sobre suas leituras. 
+Receber dicas de leitura personalizadas com base em seus gostos e histórico de leitura
+
 
 ## Histórias de Usuários
 
