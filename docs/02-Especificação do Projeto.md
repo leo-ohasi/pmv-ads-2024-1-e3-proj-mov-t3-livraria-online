@@ -21,18 +21,18 @@ Necessidades:
 Gostaria de uma forma rápida para selecionar seus livros favoritos, e também filtrar com um filtro que funcione bem para filtrar por gênero
 (pois a mesma sempre vai estar procurando livros relacionados à esportes, e auto- ajuda).
 
-2- Bernardo Silva Prado
-
-Bernardo tem 35 anos, formado em direito e localizado em São Paulo. É um cara mais reservado e que se interessa por livros de Direito, filosofia, história e política. 
+2- Bernardo Silva Prado----Administrador do Sistema BookFlows
+Bernardo tem 25 anos, é programador Full-Stack. Trabalha como administrador do sistema do app BookFlows.
 
 Motivação:
-Busca livros para se manter atualizado em sua área de atuação, além de obras que façam ele refletir mais sobre a sociedade e o mundo. 
-Encontrar facilmente livros relevantes para sua área de expertise através de um sistema de busca robusto e filtros específicos para o nicho jurídico,
-e também busca compartilhar suas próprias resenhas e insights relevantes.
+Manter-se atualizado em sua área de atuação (gosta muito de ler livros de códigos). Encontrar obras de ficção científica.
+Compartilhar suas próprias resenhas e insights
 
 Necessidades:
-Acessar resenhas e avaliações de outros profissionais do direito para embasar suas decisões de compra, pois sua frase é “um bom advogado precisa estar sempre se atualizando,
-e BookFlows me ajuda a fazer isso de forma rápida e eficiente”.
+
+Acessar resenhas e avaliações de outros profissionais do TI.
+Usar um sistema de busca robusto e filtros específicos para o nicho de programação
+Encontrar livros relevantes de forma rápida e eficiente
 
 3- Gabriela Costa
 
