@@ -153,8 +153,17 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01| O projeto deverá ser entregue até o final do semestre. 
+|02| Não será usada validação de dados back-end em uma linguagem separada (C#, JAVA, Python).        
+|03| Será desenvolvido com a ferramenta React Native.       
+|04| O projeto final para uso de fins pessoais não é permitido.
+|05| Não será utilizada geração de código automáticos, gerados por IAs.     
+|06|	O projeto deve ser compatível com navegadores antigos (IE11, Edge Legacy).
+|07| O projeto deve ser testado em diferentes dispositivos (smartphones, tablets, desktops).
+|08| O projeto deve ser aprovado pelos desenvolvedores antes de ser lançado.
+|09| O projeto deve ser fácil de usar e entender.
+|10| O projeto deve ser escalável para acomodar o crescimento futuro.
+
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
