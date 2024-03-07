@@ -33,9 +33,6 @@ A leitura é uma atividade fundamental para o desenvolvimento pessoal e intelect
 
 Diante desse cenário, torna-se evidente a necessidade de uma plataforma que vá além da simples busca de livros, oferecendo recursos como perfis de usuário personalizáveis, sugestões de leitura baseadas em interesses individuais, interação com outros leitores através de comentários e avaliações, além de ferramentas para organizar e acompanhar o progresso de leitura. Uma plataforma assim não apenas facilitaria a descoberta de novos livros, mas também promoveria uma comunidade vibrante e engajada de amantes da leitura, tornando a experiência de explorar o mundo dos livros mais gratificante e enriquecedora para todos os envolvidos.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
-
 ## Público-Alvo
 
 Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
