@@ -58,7 +58,7 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/DESEJO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Joana Oliveira dos Santos (Usuária)| Aplicativo de livros para compartilhar e uso próprio| Aplicativo para facilitar o compartilhamento de livros com alunos e para uso próprio de leitura.|
-|Bernardo Silva Prado (Desenvolvedor)| Um aplicativo para melhorar a qualidade das resenhas e avaliações de livros, tornando mais fácil para os usuários encontrarem os livros que procuram| Encontrar livros de forma eficiente e rápida.|
+|Bernardo Silva Prado (Desenvolvedor)| Um aplicativo intuitivo e para melhorar a qualidade das resenhas e avaliações de livros, tornando mais fácil para os usuários encontrarem os livros que procuram| Para economizar tempo e dinheiro caso os usuários tivessem que comprar a versão física dos livros, facilitando a vida deles.|
 |Gabriela Costa (Usuária)| Uma ferramenta para personalizar livros por gênero, autor ou tema. Uma área de comentários para poder interagir com outros leitores| Para facilitar achar livros que despertem interesse nos leitores e troca de conhecimentos.|
 
 
