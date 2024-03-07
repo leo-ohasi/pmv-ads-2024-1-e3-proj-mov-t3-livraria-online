@@ -1,12 +1,13 @@
-# TÍTULO DO PROJETO
+# BookFlows
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Eixo 3 - Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio`
 
-`SEMESTRE`
+`Terceiro Semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+
+Descubra o BookFlows, uma aplicação projetada para simplificar sua jornada na busca por referências literárias. Com uma interface intuitiva e elegante, o BookFlows oferece recursos avançados, incluindo um sistema de autenticação seguro, perfil de usuário altamente personalizável e uma integração perfeita com a renomada API do Google Books, garantindo acesso instantâneo a uma vasta biblioteca de títulos. Explore sua próxima leitura com facilidade, pesquise por título ou autor, receba sugestões sob medida, e compartilhe suas opiniões por meio de comentários e avaliações. Com filtros inteligentes por gênero, favoritos e leituras anteriores, organize sua biblioteca de forma impecável e mergulhe em uma experiência de leitura verdadeiramente envolvente.
 
 ## Integrantes
 
