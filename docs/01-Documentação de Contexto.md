@@ -1,6 +1,10 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Em um mundo onde a informação é vasta e o tempo é um recurso precioso, encontrar o próximo livro perfeito para ler pode ser uma jornada desafiadora. Com inúmeras opções disponíveis e gostos individuais variados, a busca por referências sobre livros tornou-se uma necessidade para os amantes da leitura modernos.
+
+É nesse contexto que se faz presente a necessidade de uma plataforma que unifique a vasta oferta de livros, facilite a descoberta personalizada, e promova a interação e o compartilhamento de opiniões entre os leitores.
+
+Essa demanda reflete não apenas a busca por eficiência, mas também por uma experiência gratificante e envolvente, onde a tecnologia se torna uma aliada na jornada da leitura.
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
@@ -25,9 +29,9 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+A leitura é uma atividade fundamental para o desenvolvimento pessoal e intelectual, mas encontrar o próximo livro a ser devorado pode ser uma tarefa árdua. Com a explosão da oferta de livros em formato físico e digital, os leitores enfrentam um mar de opções sem um guia confiável para navegar. Além disso, a falta de interação e compartilhamento de experiências entre os leitores contribui para a sensação de isolamento e desconexão no mundo da leitura.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Diante desse cenário, torna-se evidente a necessidade de uma plataforma que vá além da simples busca de livros, oferecendo recursos como perfis de usuário personalizáveis, sugestões de leitura baseadas em interesses individuais, interação com outros leitores através de comentários e avaliações, além de ferramentas para organizar e acompanhar o progresso de leitura. Uma plataforma assim não apenas facilitaria a descoberta de novos livros, mas também promoveria uma comunidade vibrante e engajada de amantes da leitura, tornando a experiência de explorar o mundo dos livros mais gratificante e enriquecedora para todos os envolvidos.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
