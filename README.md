@@ -7,7 +7,7 @@
 `Terceiro Semestre`
 
 
-Descubra o BookFlows, uma aplicação projetada para simplificar sua jornada na busca por referências literárias. Com uma interface intuitiva e elegante, o BookFlows oferece recursos avançados, incluindo um sistema de autenticação seguro, perfil de usuário altamente personalizável e uma integração perfeita com a renomada API do Google Books, garantindo acesso instantâneo a uma vasta biblioteca de títulos. Explore sua próxima leitura com facilidade, pesquise por título ou autor, receba sugestões sob medida, e compartilhe suas opiniões por meio de comentários e avaliações. Com filtros inteligentes por gênero, favoritos e leituras anteriores, organize sua biblioteca de forma impecável e mergulhe em uma experiência de leitura verdadeiramente envolvente.
+Descubra o BookFlows, uma aplicação projetada para simplificar sua jornada na busca por referências literárias. Com uma interface intuitiva e elegante, o BookFlows oferece ótimos recursos, como por exemplo um sistema de autenticação, perfil de usuário personalizável e uma integração perfeita com a renomada API do Google Books, garantindo acesso instantâneo a uma vasta biblioteca de títulos. Explore sua próxima leitura com facilidade, pesquise por título ou autor, receba sugestões sob medida, e compartilhe suas opiniões por meio de comentários e avaliações. Com filtros inteligentes por gênero, favoritos e leituras anteriores, organize sua biblioteca de forma impecável e mergulhe em uma experiência de leitura verdadeiramente envolvente.
 
 ## Integrantes
 
