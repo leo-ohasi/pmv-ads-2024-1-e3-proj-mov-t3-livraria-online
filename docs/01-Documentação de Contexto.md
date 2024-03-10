@@ -7,25 +7,34 @@ Em um mundo onde a informação é vasta e o tempo é um recurso precioso, encon
 Essa demanda reflete não apenas a busca por eficiência, mas também por uma experiência gratificante e envolvente, onde a tecnologia se torna uma aliada na jornada da leitura.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+Hoje em dia, temos muitos livros por aí, mas escolher o próximo pode ser difícil. Com tantas opções e cada pessoa tendo gostos diferentes, encontrar uma recomendação que faça sentido é complicado.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+Não existe um lugar que reúna todos esses livros de maneira fácil, ajudando as pessoas a descobrirem novos títulos e compartilharem suas opiniões. Isso não só dificulta encontrar novos livros, mas também torna a experiência de leitura menos rica e envolvente.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+Além disso, as pessoas gostam de coisas diferentes, então precisamos de algo mais do que simplesmente organizar os livros em categorias. As pessoas querem uma solução que entenda o que elas gostam e sugira não só os livros populares, mas também aqueles menos conhecidos que podem ser uma surpresa positiva.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+O público que gosta de ler é diversificado, e a ideia é criar uma aplicação que atenda a essa demanda crescente, tornando a busca por livros mais fácil, personalizada e interativa. Usar a tecnologia de maneira inteligente pode ser a chave para conectar leitores a livros de uma forma mais significativa.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Diante do cenário descrito, nossa proposta visa atingir diversos objetivos cruciais para aprimorar a experiência de leitura e facilitar a interação entre os amantes da literatura. Alguns dos principais objetivos incluem:
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+1. Unificação da Oferta Literária:
+
+* Consolidar uma vasta gama de títulos literários em uma plataforma única, oferecendo aos usuários uma ampla seleção de opções de leitura.
+
+2. Diversidade Literária:
+
+* Valorizar a diversidade literária, apresentando não apenas obras amplamente reconhecidas, mas também aquelas menos conhecidas que possuem mérito e podem enriquecer a experiência de leitura dos usuários.
+
+3.Eficiência na Busca:
+
+* Aprimorar a eficiência na busca por livros, proporcionando filtros intuitivos, categorizações precisas e um sistema de busca inteligente para facilitar a localização de títulos desejados.
+
+4. Adaptação Contínua:
+
+* Estabelecer um sistema de feedback contínuo para aprimorar a precisão das recomendações e garantir que a plataforma evolua de acordo com as mudanças nas preferências e necessidades dos usuários.
+
 
 ## Justificativa
 
@@ -35,13 +44,30 @@ Diante desse cenário, torna-se evidente a necessidade de uma plataforma que vá
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+A proposta da nossa plataforma se destina a um público diversificado, composto por apaixonados por literatura, ávidos por descobrir novas obras e compartilhar suas experiências de leitura. Nosso público-alvo abrange:
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+1. Leitores Ávidos:
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+* Indivíduos que têm a leitura como uma parte essencial de suas vidas, consumindo uma variedade de gêneros e estilos literários regularmente.
+
+2. Exploradores Literários:
+
+* Aqueles que buscam constantemente expandir seus horizontes literários, interessados em descobrir novos autores, gêneros e obras menos conhecidas.
+
+3. Comunidade Engajada:
+
+* Participantes ativos em comunidades online ou físicas dedicadas à literatura, que valorizam o compartilhamento de opiniões, resenhas e recomendações com outros leitores.
+
+4. Buscadores de Recomendações Personalizadas:
+
+* Indivíduos que desejam recomendações de leitura adaptadas às suas preferências específicas, buscando uma experiência de descoberta mais personalizada.
+
+5. Profissionais do Mundo Literário:
+
+* Autores, editores, críticos literários e outros profissionais envolvidos na indústria literária, que buscam uma plataforma para promover suas obras, interagir com leitores e explorar novos talentos.
+
+
+
+
+
+
