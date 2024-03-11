@@ -75,26 +75,28 @@ Atualmente, a busca por referências sobre livros muitas vezes é uma experiênc
 
 O BookFlows propõe uma solução abrangente para otimizar a busca por referências sobre livros, alinhando-se aos objetivos do negócio de proporcionar uma experiência de leitura envolvente e personalizada. A proposta visa melhorar a interação entre os usuários, facilitar a descoberta de novos livros e oferecer recursos avançados para acompanhar e organizar a leitura. As oportunidades de melhoria incluem a implementação de recursos de recomendação mais inteligentes, aprimoramento da interação social e a introdução de ferramentas para monitorar e gerenciar o progresso da leitura.
 
-### Processo 1 – NOME DO PROCESSO
+### Processo 1 – Descoberta de Livros
 
 Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
 
-![Processo 1](img/02-bpmn-proc1.png)
+![Processo 1](img/processo1.png)
 
-### Processo 2 – NOME DO PROCESSO
+### Processo 2 – Interação Social
 
 Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
 
-![Processo 2](img/02-bpmn-proc2.png)
+![Processo 2](img/processo2.png)
 
 ## Indicadores de Desempenho
 
-Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
+| Indicador de Desempenho        | Meta                                          |
+|--------------------------------|-----------------------------------------------|
+| Taxa de Satisfação do Usuário | Alcançar 90% até o final do próximo trimestre |
+| Taxa de Engajamento            | Aumentar em 20% nos próximos seis meses       |
+| Taxa de Conversão              | Aumentar em 15% até o final do ano            |
+| Tempo Médio de Permanência     | Aumentar para 30 minutos até o final do próximo semestre |
+| Taxa de Retenção de Usuários   | Manter em 80% ou superior ao longo do próximo ano    |
 
-Usar o seguinte modelo: 
-
-![Indicadores de Desempenho](img/02-indic-desemp.png)
-Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
 
 ## Requisitos
 
