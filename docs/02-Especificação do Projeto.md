@@ -181,9 +181,28 @@ O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utiliz
 
 ## Gerenciamento de Equipe
 
-O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. 
+### Equipe de Desenvolvimento:
 
-![Simple Project Timeline](img/02-project-timeline.png)
+1. **Carlos Henrique Vilar de Almeida Malta:** Responsável por coordenar todas as atividades relacionadas ao desenvolvimento do aplicativo. Deve garantir que o projeto siga dentro do cronograma estabelecido, resolver possíveis conflitos e manter a equipe motivada.
+
+2. **Fulvius Wolfgang Faria Fonseca Macedo:** Encarregado de criar a interface do usuário do aplicativo, garantindo uma experiência de usuário intuitiva e atraente.
+
+3. **João Leonardo Ohasi Amorim:** Responsável pela implementação das funcionalidades do aplicativo, como a integração com APIs externas e a manipulação de dados do usuário.
+
+4. **Lucas Marlon Oliveira De Jesus:** Encarregado de projetar a interface do usuário e garantir uma experiência de usuário consistente e agradável.
+
+### Equipe de Testes:
+
+1. **Thamara Machado Rocha:** Responsável por testar o aplicativo em todas as suas funcionalidades e relatar quaisquer bugs ou problemas encontrados.
+
+2. **Mirella Gabriela Silva Bonutty De Freitas:** Encarregada de realizar testes de usabilidade e identificar possíveis melhorias na experiência do usuário.
+
+### Comunicação e Gestão de Tarefas:
+
+- Utilização de ferramentas de comunicação como Discord ou Microsoft Teams para facilitar a comunicação entre os membros da equipe.
+- Utilização de ferramentas de gerenciamento de projetos como Trello para atribuir tarefas, acompanhar o progresso e garantir que os prazos sejam cumpridos.
+- Realização de reuniões regulares de equipe para alinhamento de objetivos, revisão de progresso e resolução de problemas.
+
 
 ## Gestão de Orçamento
 
