@@ -206,6 +206,17 @@ O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utiliz
 
 ## Gestão de Orçamento
 
-O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
+1. **Desenvolvimento de Software:** R$50.000,00
+   
+2. **Hospedagem e Infraestrutura:** R$10.000,00
 
-![Orçamento](img/02-orcamento.png)
+3. **Marketing e Publicidade:** R$20.000,00
+
+4. **Suporte Técnico:** R$15.000,00
+
+5. **Licenças e Ferramentas de Desenvolvimento:** R$5.000,00
+
+### Controle de Orçamento:
+
+- **Orçamento Total:** R$100.000,00
+
