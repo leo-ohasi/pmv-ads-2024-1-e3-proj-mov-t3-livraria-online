@@ -151,10 +151,17 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Matriz de Rastreabilidade
 
-A matriz de rastreabilidade tem o intuito de facilitar a visualização da relação entre os requisitos e outros agentes do projeto, pemitindo observar de maneira mais clara a rastreabilidade entre os requisitos e os objetivos do negócio.
-Abaixo se econtra a matriz de rastreabilidade deste projeto.
+| Requisito                       | Processo Associado                   | Indicador de Desempenho Relacionado          |
+|---------------------------------|--------------------------------------|---------------------------------------------|
+| Tela de Login                   | -                                    | -                                           |
+| Perfil do Usuário               | -                                    | -                                           |
+| Lista de Livros                 | -                                    | -                                           |
+| Barra de Pesquisa               | -                                    | -                                           |
+| Sugestões por Filtragem         | Processo 1 - Descoberta de Livros   | Taxa de Conversão                           |
+| Comentários e Avaliações        | Processo 2 - Interação Social       | Taxa de Engajamento, Taxa de Retenção       |
+| Filtros                         | -                                    | -                                           |
 
-![Matriz de rastreabilidade](img/matriz-de-rastreabilidade.png)
+
 
 
 
