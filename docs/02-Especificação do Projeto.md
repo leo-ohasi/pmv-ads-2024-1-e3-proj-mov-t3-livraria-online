@@ -2,47 +2,12 @@
 
 ## Personas
 
-1-Joana Oliveira Dos Santos
+| Persona                    | Idade | Profissão               | Descrição                                                                                                     | Motivação                                                                                                                                                                                                                                                                                                                                                         | Necessidades                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|----------------------------|-------|-------------------------|---------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Joana Oliveira Dos Santos** | 27    | Dona de escola de artes marciais, formada em Educação Física | Joana é uma pessoa entusiasmada e positiva, apaixonada por leituras que estimulam sua mente e ajudam a aprimorar seus exercícios físicos.                                | Joana está interessada em compartilhar resenhas sobre livros de autoajuda e instruções para melhorar suas técnicas em artes marciais, especialmente com seus alunos.                                                                                                                                                                                                                                                                                                                                                         | Joana busca uma forma rápida de selecionar seus livros favoritos e filtrar por gênero, principalmente relacionados a esportes e autoajuda.                                                                                                                                                                                                                                                                                                                                                             |
+| **Bernardo Silva Prado**       | 35    | Programador Full-Stack  | Bernardo é um programador experiente, focado no desenvolvimento de software web e mobile. Ele é o criador do APP BookFlows.                                              | Bernardo deseja contribuir para o desenvolvimento de ferramentas que auxiliem na pesquisa e análise de informações tecnológicas, melhorando a qualidade das resenhas e avaliações de livros na plataforma.                                                                                                                                                                                                                                                                                      | Bernardo necessita acessar resenhas e avaliações de outros profissionais de tecnologia, usar um sistema de busca robusto e filtros específicos para o nicho tecnológico, e encontrar livros relevantes de forma rápida e eficiente.                                                                                                                                                                                                                                                               |
+| **Gabriela Costa**              | 22    | Estudante de Letras     | Gabriela é uma leitora apaixonada, especialmente por literatura brasileira e estrangeira, focando em poesia e teoria literária.                                              | Gabriela busca aprofundar seus conhecimentos literários, encontrar novas leituras para seus estudos e descobrir autores desconhecidos.                                                                                                                                                                                                                                                                                                                                                        | Gabriela precisa criar listas de leitura personalizadas, acessar informações detalhadas sobre os livros, conectar-se com outros estudantes de Letras para trocar ideias e receber dicas de leitura personalizadas com base em seus gostos e histórico de leitura.                                                                                                                                                                                                                       |
 
-Joana tem 27 anos, formada em educação física e é dona de sua própria escola de artes marciais. Entusiasmada e positiva, gosta muito de leitura que estimulam sua mente,
-e que ajudem ela aprimorar seus exercícios físicos. 
-
-Motivação: 
-Tem muito interesse em usar o APP para pode compartilhar com todos (principalmente seus alunos), 
-resenhas sobre os livros de auto- ajuda, e instruções para melhorar suas técnicas em artes marciais. 
-
-Necessidades:
-Gostaria de uma forma rápida para selecionar seus livros favoritos, e também filtrar com um filtro que funcione bem para filtrar por gênero
-(pois a mesma sempre vai estar procurando livros relacionados à esportes, e auto- ajuda).
-
-2- Bernardo Silva Prado----Administrador do Sistema BookFlows
-
-Bernardo tem 35 anos, é programador Full-Stack.  Trabalha a 10 anos como programador de sistemas, com foco em desenvolvimento de software web e mobile e criador do APP.
-
-Motivação:
-Contribuir para o desenvolvimento de ferramentas que auxiliem na pesquisa e análise de informações tecnológicas.
- Usar sua experiência em tecnologia para ajudar a melhorar a qualidade das resenhas e avaliações de livros, tornando mais fácil para os usuários encontrarem os livros que procuram.
-Bernardo pode compartilhar suas próprias resenhas e insights sobre livros e tecnologia, ajudando outros usuários a tomar decisões de compra mais informadas.
-Desenvolver novas funcionalidades para a plataforma BookFlows, como um sistema que auxilia na pesquisa e análise de informações.
-
-Necessidades:
-
-Acessar resenhas e avaliações de outros profissionais de tecnologia.
-Usar um sistema de busca robusto e filtros específicos para o nicho tecnológico.
-Encontrar livros relevantes de forma rápida e eficiente.
-
-3- Gabriela Costa
-
-Gabriela costa tem 22 anos, estudante de letras, mora em Ouro Preto, em Minas Gerais. Se interessa muito por literatura brasileira e estrangeira. Foca mais em livros de poesia e teoria literária.
-
-Motivação: 
-Leitora apaixonada, lê diversos gêneros, mas tem um carinho especial por clássicos e livros contemporâneos. Busca livros para aprofundar seus conhecimentos literários, 
-encontrar novas leituras para seus estudos e descobrir autores desconhecidos.
-
-Necessidades: 
-Criar listas de leitura personalizadas por gênero, autor, época ou tema. Acessar informações detalhadas sobre os livros, como resumos, 
-críticas literárias e trechos do texto. Conectar-se com outros estudantes de Letras para trocar ideias e discutir sobre suas leituras. 
-Receber dicas de leitura personalizadas com base em seus gostos e histórico de leitura
 
 
 ## Histórias de Usuários
@@ -68,13 +33,9 @@ O BookFlows propõe uma solução abrangente para otimizar a busca por referênc
 
 ### Processo 1 – Descoberta de Livros
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
-
 ![Processo 1](img/processo1.png)
 
 ### Processo 2 – Interação Social
-
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
 
 ![Processo 2](img/processo2.png)
 
