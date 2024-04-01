@@ -1,3 +1,4 @@
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t3-livraria-online/blob/main/docs/img/templatepadrao.png)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t3-livraria-online/assets/43765376/efec78f7-8043-4e34-8f75-becaf098b88c)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t3-livraria-online/assets/43765376/f84e1d8e-a7ce-49d4-a616-f16ee1d1114c)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t3-livraria-online/assets/43765376/dc4a9562-2391-4fb2-a3ac-57bea2e65741)
