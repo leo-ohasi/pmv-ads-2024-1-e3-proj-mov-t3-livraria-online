@@ -65,8 +65,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-005| O aplicativo deve apresentar uma barra de pesquisa. |ALTA|
 |RF-006| O aplicativo deve ter avaliação e comentários. |ALTA|
 |RF-007| O aplicativo deve ter opção de filtro. |MÉDIA|
-|RF-008| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-009| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-008| Permitir que o usuário altere a avaliação. | MÉDIA |
 
 
 
