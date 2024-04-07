@@ -31,13 +31,21 @@ Atualmente, a busca por referências sobre livros muitas vezes é uma experiênc
 
 O BookFlows propõe uma solução abrangente para otimizar a busca por referências sobre livros, alinhando-se aos objetivos do negócio de proporcionar uma experiência de leitura envolvente e personalizada. A proposta visa melhorar a interação entre os usuários, facilitar a descoberta de novos livros e oferecer recursos avançados para acompanhar e organizar a leitura. As oportunidades de melhoria incluem a implementação de recursos de recomendação mais inteligentes, aprimoramento da interação social e a introdução de ferramentas para monitorar e gerenciar o progresso da leitura.
 
-### Processo 1 – Descoberta de Livros
+### Processo 1 – Cadastro de Usuário
 
-![Processo 1](img/processo1.png)
+![Processo 1](img/CadastoUsuario.png)
 
-### Processo 2 – Interação Social
+### Processo 2 – Editar Uusário
 
-![Processo 2](img/processo2.png)
+![Processo 2](img/EditarUsuario.png)
+
+### Processo 3 – Avaliação de Livros
+
+![Processo 3](img/Avaliação.png)
+
+### Processo 4 – Pesquisa de Livros
+
+![Processo 4](img/PesquisarLivros.png)
 
 ## Indicadores de Desempenho
 
